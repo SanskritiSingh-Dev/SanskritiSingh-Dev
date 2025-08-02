@@ -1,111 +1,74 @@
-<!-- Banner (optional) -->
-<p align="center">
-  <img src="https://github.com/SanskritiSingh-Dev/SanskritiSingh-Dev/assets/your-banner.png" width="100%" alt="Sanskriti Banner"/>
-</p>
+<div align="center">
 
-<h1 align="center">✨ Hey, I'm Sanskriti Singh ✨</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=2EC4B6&center=true&vCenter=true&width=500&lines=Aspiring+Software+Developer;MERN+Stack+Enthusiast;Open+Source+Explorer;Future+Tech+Leader+%F0%9F%8C%8D" alt="Typing SVG" />
-</p>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00ADB5&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Sanskriti+Singh!;A+passionate+Full+Stack+Developer.;Driven+by+Code%2C+Crafted+with+Purpose.)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SanskritiSingh-Dev&style=flat-square&color=blue" alt="GitHub views" />
-</p>
+![Banner](https://github.com/SanskritiSingh-Dev/SanskritiSingh-Dev/blob/main/assets/banner.png)
 
 ---
 
-## 💻 About Me
+### 🚀 Tech Stack
 
-```javascript
-const Sanskriti = {
-  fullName: "Sanskriti Singh",
-  title: "Aspiring Software Developer",
-  techStack: ["MERN", "Java", "Python", "TypeScript"],
-  currentProject: "Deepfake Video Detection System - BLACKBOXAI 🎥🔡️",
-  contact: {
-    email: "sanskritisingh.dev@gmail.com",
-    github: "https://github.com/SanskritiSingh-Dev",
-    linkedin: "https://www.linkedin.com/in/sanskriti-singh-825301263/"
-  },
-  funFact: "Old-school romantic with a futuristic tech dream 🌸"
-}
-```
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-## 🧐 Tech Stack
+### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,java,python,ts,figma,canva,vscode,github&perline=8" />
-</p>
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=SanskritiSingh-Dev&show_icons=true&theme=tokyonight" /> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SanskritiSingh-Dev&theme=tokyonight" /> |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
 
----
-
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SanskritiSingh-Dev&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SanskritiSingh-Dev&theme=tokyonight&hide_border=true&border_radius=20" width="48%"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanskritiSingh-Dev&layout=compact&theme=tokyonight&hide_border=true&border_radius=20" width="48%"/>
-</p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanskritiSingh-Dev&layout=compact&theme=tokyonight" />
 
 ---
 
-## 🐍 Contribution Graph (Animated)
+### 🐍 Contribution Graph
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/SanskritiSingh-Dev/SanskritiSingh-Dev/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
+![GitHub Contribution Graph](https://raw.githubusercontent.com/SanskritiSingh-Dev/SanskritiSingh-Dev/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
 
 ---
 
-## 🌐 Connect with Me
+### 📬 Connect with Me
 
-<p align="center">
+<div align="center">
   <a href="https://www.linkedin.com/in/sanskriti-singh-825301263/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/SanskritiSingh-Dev" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="#" onclick="navigator.clipboard.writeText('sanskritis047@gmail.com'); alert('Email copied!')">
+    <img src="https://img.shields.io/badge/Email-sanskritis047%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="mailto:sanskritisingh.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+</div>
 
 ---
 
-## 📬 Click-to-Copy Email
+### 💡 Quote to Code By
 
-```html
-<p align="center">
-  <code>📧 <span onclick="navigator.clipboard.writeText('sanskritisingh.dev@gmail.com')" style="cursor:pointer">sanskritisingh.dev@gmail.com</span> ✅</code>
-</p>
-```
-
-> ⚠️ Note: `onclick` works only on HTML-rendering pages (not GitHub’s Markdown parser). But it shows intention.
+> "Code is like poetry — every line counts."
 
 ---
 
-## ⏳ Loading Animation (Custom SVG)
+### 🌱 Keep Exploring
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/SanskritiSingh-Dev/SanskritiSingh-Dev/main/loading-bar.svg" alt="loading"/>
-</p>
+![Explore](https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif)
 
 ---
 
-## 💭 Quote to Code By
+### ⏳ Loading...
 
-> _“First you learn the code, then you learn the craft.”_ 💡
+![Loader](https://cdn.dribbble.com/users/730703/screenshots/4567221/media/3cb9c2e1f7d6c1b21b6dc2f0996db688.gif)
 
 ---
 
-## 🥝 Keep Exploring, Keep Evolving!
+<i>Crafted with ❤️ by Sanskriti Singh</i>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0E76A8&height=100&section=footer"/>
-</p>
+</div>
 
 
